@@ -226,8 +226,41 @@ li {
 
 
 
+/* CALL TO ACTION */
+
+#call-to-action {
+    margin-top: 6%;
+    background-color: #fff;
+    height: auto;
+    padding-bottom: 6%;
+    margin-bottom: 7%;
+}
+
+.action {
+    text-align: center;
+}
+
+.action h2 {
+    font-size: 2rem;
+    padding: 8%;
+}
 
 
 
 
 
+
+
+/* FOOTER */
+
+
+.copylight {
+    text-align: center;
+    padding: 3%;
+    background-color: #555;
+}
+
+.copylight p {
+    color: #fff;
+    font-size: 1.25rem;
+}
