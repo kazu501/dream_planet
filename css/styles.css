@@ -1,0 +1,89 @@
+@charset "UTF-8";
+
+
+/* COMMON */
+
+html {
+    font-size: 100%;
+}
+
+body {
+    font-family: "Yu Cothic Medium", YuGothic, sans-serif;
+    color: #333;
+    background-color: #CCFFCC;
+}
+
+
+h2.title {
+    font-family: 'Bowlby One SC', cursive;
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    max-width: 100%;
+}
+
+li {
+    list-style: none;
+}
+
+
+
+
+
+
+
+/* HEADER */
+
+/* .page-header {
+    display: flex;
+} */
+
+.page-header {
+    position: fixed;
+    right: 0;
+}
+
+.page-header .main-nav {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 40%;
+}
+
+.page-header .main-nav li {
+    margin: 15px;
+    padding: 10px;
+    border-radius: 7px;
+    box-shadow: 0 3px 3px rgba(83,78,61,.3);
+    background-color: #fff;
+}
+
+.page-header .main-nav li a {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #3399FF;
+    font-size: 18px;
+    transition: .3s;
+}
+
+.page-header .main-nav li a:hover {
+    opacity: 0.4;
+}
+
+
+
+
+
+/* HOME */
+
+#home {
+    height: 1050px;
+}
+
+
+
+
+
+
