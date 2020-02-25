@@ -30,6 +30,10 @@ li {
     list-style: none;
 }
 
+#content {
+    z-index: 2;
+}
+
 
 
 
@@ -76,11 +80,33 @@ li {
 
 
 
+
+
+
+
+
 /* HOME */
 
 #home {
+    padding-top: 12%;
     height: 1050px;
+    background-color: #fff;
 }
+
+.home-content {
+    text-align: center;
+}
+
+.home-content h1 {
+    font-size: 3.5rem;
+    margin-bottom: 6%;
+}
+
+.home-content h2 {
+    font-size: 2rem;
+    margin-bottom: 2%;
+}
+
 
 
 
