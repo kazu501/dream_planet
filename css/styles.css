@@ -163,6 +163,7 @@ li {
     margin-top: 6%;
     background-color: #fff;
     height: auto;
+    padding-bottom: 2%;
 }
 
 .profiles {
@@ -172,7 +173,7 @@ li {
 
 .profile {
     margin-left: 4%;
-    padding: 4%;
+    padding: 5%;
 }
 
 .profile img {
@@ -187,5 +188,46 @@ li {
 .profile p {
     margin-top: 2%;
 }
+
+
+
+
+
+
+
+
+
+
+
+/* TOPIC */
+
+
+#topic {
+    margin-top: 6%;
+    background-color: #fff;
+    height: auto;
+    padding-bottom: 8%;
+}
+
+.movie {
+    margin-top: 4%;
+    text-align: center;
+}
+
+.movie p {
+    margin-bottom: 3%;
+    font-size: 1.5rem;
+}
+
+
+
+
+
+
+
+
+
+
+
 
 
